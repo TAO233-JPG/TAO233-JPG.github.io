@@ -1,2 +1,2 @@
 # TAO233-JPG.github.io
-g个人
+g个人博客
